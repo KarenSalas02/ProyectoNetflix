@@ -55,7 +55,8 @@ a{
     align-items: center;
     justify-content: space-between;
     gap: 5px;
-    font-size: 15px;
+    font-size: 14px;
+    font-weight: 500;
 }
 .navegacion{
     padding-top: 10px;
