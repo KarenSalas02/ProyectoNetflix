@@ -163,14 +163,14 @@ a{
     cursor: pointer;
 }
 .imagotipo--info p:nth-child(2){
-    border: 1px solid #6d6d63b3;
-    background-color: #6d6d63b3;
+    border: 1px solid rgba(109, 109, 110, 0.7);
+    background-color: rgba(109, 109, 110, 0.7);
     cursor: pointer;
     color: white;
 }
 .imagotipo--info p:nth-child(1):hover,
 .imagotipo--info p:nth-child(2):hover{
-    background-color: transparent;
+    background-color: rgba(85, 85, 85, 0.664);
     color: white;
 }
 /* footer */
@@ -221,7 +221,8 @@ a{
     display: flex;
     color: rgb(133, 133, 133);
     font-weight: 400;
-    padding-top: 3%;    
+    padding-top: 3%;  
+    cursor: pointer;  
 }
 .contruccion{
     color: rgb(133, 133, 133);
