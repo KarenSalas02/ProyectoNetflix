@@ -214,16 +214,19 @@ a{
 .informacion p:hover{
     color: white;
 }
-.idioma{
-    color: white;
-    padding: 8px;
-    font-weight: 700;
+
+.codigoServ{
+    display: flex;
+    color: rgb(133, 133, 133);
+    font-weight: 400;
+    padding-top: 3%;    
 }
 .contruccion{
-    color: white;
-    padding: 10px;
-    font-weight: 900;
-    text-align: center;
+    color: rgb(133, 133, 133);
+    font-weight: 100;
+    padding-top: 3%;
+    font-size: 80%;
+    padding-bottom: 3%;
 }
 .catalogos{
     padding-block: 2px;
