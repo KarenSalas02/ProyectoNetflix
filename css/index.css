@@ -57,6 +57,7 @@ a{
     gap: 5px;
     font-size: 14px;
     font-weight: 500;
+    position: fixed;
 }
 .navegacion{
     padding-top: 10px;
@@ -109,8 +110,8 @@ a{
     width: 25px;
 }
 .usuario{
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     border-radius: 10px;
     overflow: hidden;
 }
