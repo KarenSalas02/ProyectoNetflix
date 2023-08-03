@@ -15,7 +15,7 @@ window.addEventListener('DOMContentLoaded',()=>{
             const article = document.createElement('article');
             article.classList.add('pelicula');
             const img = document.createElement('img');
-            img.src = 'https://image.tmdb.org/t/p/original/'+pelicula.poster_path;
+            img.src = ''+pelicula.poster_path;
             article.append(img);
             populares.append(article);
         });
